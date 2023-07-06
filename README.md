@@ -12,7 +12,11 @@
 9) Apasand tasta "Enter", se afiseaza un mesaj, iar generarea automata se opreste.
 
 
-// Date format https://learn.microsoft.com/en-us/dotnet/api/system.datetime.tryparseexact?view=net-7.0
-// Timer https://learn.microsoft.com/en-us/dotnet/api/system.timers.timer?view=net-7.0
-// Press a specific key https://stackoverflow.com/questions/50290855/end-the-for-loop-by-keyboard-input-c-sharp
-// Random password with given characters https://www.c-sharpcorner.com/article/how-to-generate-a-random-password-in-c-sharp-and-net-core/
+## Date format 
+https://learn.microsoft.com/en-us/dotnet/api/system.datetime.tryparseexact?view=net-7.0
+## Timer 
+https://learn.microsoft.com/en-us/dotnet/api/system.timers.timer?view=net-7.0
+## Press a specific key 
+https://stackoverflow.com/questions/50290855/end-the-for-loop-by-keyboard-input-c-sharp
+## Random password with given characters 
+https://www.c-sharpcorner.com/article/how-to-generate-a-random-password-in-c-sharp-and-net-core/
