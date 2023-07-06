@@ -20,7 +20,7 @@ namespace PasswordGeneratorAuto
             Console.Write("Enter the userID, current date and time (username yyyy-MM-dd HH:mm:ss): ");
             string input = Console.ReadLine();
 
-            // Despartim intrarea in 2 string-uri (se despart dupa primul spatiu)
+            // Despartim intrarea in 3 string-uri (se despart dupa fiecare spatiu)
             string[] inputParts = input.Split(' ');
 
             if (inputParts.Length >= 3)
